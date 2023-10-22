@@ -1,0 +1,27 @@
+{
+  "name": "nodechatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scientist-Momi/nodeChatApp.git"
+  },
+  "author": "Scientist Momi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scientist-Momi/nodeChatApp/issues"
+  },
+  "homepage": "https://github.com/scientist-Momi/nodeChatApp#readme",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "socket.io": "^4.7.2"
+  }
+}
